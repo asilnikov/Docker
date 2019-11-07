@@ -1,0 +1,21 @@
+Started by user [8mha:////4LbRf6k8eBq7PseX5OqRHN5gNIZZclMpgjfiTzs4xq2EAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/jenkins_home/workspace/Nexus
+[Nexus] $ /bin/sh -xe /tmp/jenkins8063314452794048210.sh
++ curl -IL nexus:8081
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0  7721    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+HTTP/1.1 200 OK
+Date: Thu, 07 Nov 2019 11:47:16 GMT
+Server: Nexus/3.19.1-01 (OSS)
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-XSS-Protection: 1; mode=block
+Content-Type: text/html
+Last-Modified: Thu, 07 Nov 2019 11:47:16 GMT
+Pragma: no-cache
+Cache-Control: post-check=0, pre-check=0
+Expires: 0
+Content-Length: 7721
+
+Finished: SUCCESS
